@@ -1,0 +1,36 @@
+html {
+    font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: placeholder:Roboto Slab; 
+  }
+  h1 {font-size: 60px;
+    text-align: center;
+}
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+}
+html {
+    background-color: #b47d7d;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #5f1b13;
+    text-shadow: 5px 5px 1px black;
+  }
+  img {
+    display: block;
+    margin:0 auto;
+    width: 400px;
+    height: 600px;
+  }
+  
